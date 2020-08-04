@@ -1,7 +1,6 @@
+[//]: # (# <center> Autonomous Materials Research Systems </center>)
 
-# <center> Autonomous Materials Research Systems </center>
-
-### <center> Accelerating Discovery & Democratizing Science </center>
+[//]: # (### <center> Accelerating Discovery & Democratizing Science </center>)
 
 # A. Gilad Kusne
 Research Scientist, Materials Measurement & Science Division, National Institute of Standards & Technology  
