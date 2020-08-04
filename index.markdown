@@ -1,5 +1,5 @@
 
-# <p align="center"> Autonomous Materials Research Systems </p>
+# <p style="text-align: center;"> Autonomous Materials Research Systems </p>
 
 ### <p align="center"> Accelerating Discovery & Democratizing Science </p>
 
