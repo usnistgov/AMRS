@@ -3,7 +3,7 @@
 <script src="https://pages.nist.gov/nist-header-footer/js/jquery-1.9.0.min.js" type="text/javascript" defer="defer"></script>
 <script src="https://pages.nist.gov/nist-header-footer/js/nist-header-footer.js" type="text/javascript" defer="defer"></script>
   </head>
-<body>
+  </html>
 # <center> Autonomous Materials Research Systems </center>
 
 ### <center> Accelerating Discovery & Democratizing Science </center>
@@ -145,6 +145,3 @@ For openings, please contact me at: aaron(.)kusne(@)nist(.)gov
 * * * 
 
 ## Organized Workshops
-
-</body>
-</html>
