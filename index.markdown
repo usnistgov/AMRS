@@ -1,7 +1,3 @@
-[//]<>(# <center> Autonomous Materials Research Systems </center>)
-
-[//]<>(### <center> Accelerating Discovery & Democratizing Science </center>)
-
 # A. Gilad Kusne
 Research Scientist, Materials Measurement & Science Division, National Institute of Standards & Technology  
 Adjunct Associate Professor of Materials Science & Engineering, University of Maryland College Park  
